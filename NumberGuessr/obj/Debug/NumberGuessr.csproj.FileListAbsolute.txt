@@ -1,0 +1,8 @@
+C:\Users\k\source\repos\NumberGuessr\NumberGuessr\bin\Debug\NumberGuessr.exe.config
+C:\Users\k\source\repos\NumberGuessr\NumberGuessr\bin\Debug\NumberGuessr.exe
+C:\Users\k\source\repos\NumberGuessr\NumberGuessr\bin\Debug\NumberGuessr.pdb
+C:\Users\k\source\repos\NumberGuessr\NumberGuessr\obj\Debug\NumberGuessr.csproj.AssemblyReference.cache
+C:\Users\k\source\repos\NumberGuessr\NumberGuessr\obj\Debug\NumberGuessr.csproj.SuggestedBindingRedirects.cache
+C:\Users\k\source\repos\NumberGuessr\NumberGuessr\obj\Debug\NumberGuessr.csproj.CoreCompileInputs.cache
+C:\Users\k\source\repos\NumberGuessr\NumberGuessr\obj\Debug\NumberGuessr.exe
+C:\Users\k\source\repos\NumberGuessr\NumberGuessr\obj\Debug\NumberGuessr.pdb
